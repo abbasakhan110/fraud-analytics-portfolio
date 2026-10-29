@@ -1,0 +1,4 @@
+data/fraud.db
+data/ground_truth_do_not_use_in_sql.csv
+__pycache__/
+*.pyc

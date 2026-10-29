@@ -1,0 +1,3 @@
+type,start,end,hours,detail
+volume drop (possible logging outage),2026-06-10 02:00:00,2026-06-10 14:00:00,12,40 deposits vs ~295 expected
+duplicate events,2026-07-22 00:00:00,2026-07-23 00:00:00,24,451 duplicate deposit rows (34.1% of that day)
